@@ -5,7 +5,7 @@ This project focuses on analyzing global development indicators (Health, Economi
 📂 Repository Structure
 According to the repository layout, the project is organized as follows:
 
-Python Notebook_cleaned_data/: Contains Jupyter notebooks for data cleaning, outlier treatment, and Exploratory Data Analysis (EDA).
+Python Notebook_cleaned_data/: Contains colab for data cleaning, outlier treatment, and Exploratory Data Analysis (EDA).
 
 SQL Scripts/: Includes SQL queries for data modeling, table creation, and KPI derivation.
 
